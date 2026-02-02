@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Youjia Zhao
+- **CCID:** youjia7
 
 ## References and Resources
 
